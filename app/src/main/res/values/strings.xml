@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SatMenu</string>
+    <string name="loading">Loading</string>
+
+
+    <!-- This is Default id use your own AdMob Banner_ID-->
+
+    <string name="Banner_ID">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ID">ca-app-pub-7751734045553296/4125972580</string>
+
+    <string-array name="categories" translatable="false">
+        <item>Birthday</item>
+        <item>Christmas</item>
+        <item>Flower And Frame</item>
+        <item>Heart and Love</item>
+        <item>Kid</item>
+        <item>Simple</item>
+        <item>Wedding</item>
+        <item><!-- Add new category here...--></item>
+    </string-array>
+
+</resources>
